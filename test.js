@@ -1,4 +1,5 @@
 const main = ()=>{
-    console.log('hello world')
+    console.log('v2:hello world')
+    console.log("v2:i'm priyanshu")
 }
 main();
